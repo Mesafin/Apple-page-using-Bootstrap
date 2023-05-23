@@ -148,7 +148,7 @@ body {
 	font-size: 2em;
 }
 .links-wrapper {
-	padding: 15px 0;
+	padding: 5px 0;
 }
 .links-wrapper ul li {
 	display: inline-block;
@@ -191,6 +191,9 @@ body {
 	color: #86868b; 
 	font-size: 0.85em;
 }
+.second-hightlight-wrapper ul li a:hover {
+	color: #f4f2f2;
+}
 /* Third Highlight Section */
 .third-highlight-wrapper {
 	background-image: url("../images/home/iphone11-bg.jpg");
@@ -202,7 +205,7 @@ body {
 	padding: 65px 20px;
 }
 /*Fourth Highlight Section */
-.fourth-heghlight-wrapper {
+.fourth-highlight-wrapper {
   background: #fff;
 }
 .col-lg-6.left-side-wrapper {
@@ -212,7 +215,7 @@ body {
 .left-side-inner-wrapper {
 	margin: 1% 0.5% 0% 1%; 
 }
-.fourth-heghlight-wrapper .left-side-inner-wrapper {
+.fourth-highlight-wrapper .left-side-inner-wrapper {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -228,7 +231,7 @@ body {
 	padding-left: 0;
 	padding-right: 0;
 }
-.fourth-heghlight-wrapper .right-side-inner-wrapper {
+.fourth-highlight-wrapper .right-side-inner-wrapper {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -243,11 +246,11 @@ body {
 	padding: 10px; 
 }
 /*Fivth Highlight Section */
-.fifth-heghlight-wrapper {
+.fifth-highlight-wrapper {
   background: #fff;
 }
 
-.fifth-heghlight-wrapper .left-side-inner-wrapper {
+.fifth-highlight-wrapper .left-side-inner-wrapper {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -256,7 +259,7 @@ body {
 	background-image:  url("../images/home/apple-tv-background.jpg");
 	padding-top: 54px; 
 }
-.fifth-heghlight-wrapper .right-side-inner-wrapper {
+.fifth-highlight-wrapper .right-side-inner-wrapper {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -269,6 +272,9 @@ body {
 	background-color: #000;
 	background-position: bottom;
 
+}
+.fifth-highlight-wrapper .right-side-inner-wrapper ul li a:hover {
+	color: #f4f2f2;
 }
 .logo-wrapper {
 	font-size: 40px;
@@ -289,26 +295,26 @@ body {
 }
 
 /*Sixth Highlight Section */
-.sixth-heghlight-wrapper {
+.sixth-highlight-wrapper {
   background: #fff;
 }
 .product-title-small {
 	font-weight: 700;
 	font-size: 45px;
 }
-.sixth-heghlight-wrapper .left-side-inner-wrapper {
+.sixth-highlight-wrapper .left-side-inner-wrapper {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;	
 	background-image:  url("../images/home/macbook-pro.jpg");
-	padding-top: 54px; 
+	padding-top: 35px; 
 	background-size: initial;
 	background-color: #fafafa;
 	background-position: bottom;	
 }
-.sixth-heghlight-wrapper .right-side-inner-wrapper {
+.sixth-highlight-wrapper .right-side-inner-wrapper {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
