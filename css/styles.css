@@ -42,6 +42,7 @@ body {
   height: 44px;
   line-height: 44px;
 }
+
 .navbar-light .navbar-toggler-icon {
    background-image: url("../images/icons/humberger.png");
 }
